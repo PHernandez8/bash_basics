@@ -23,7 +23,7 @@ done
 # exercise: implement another counting song (such as 12 days of Christmas) 
 # using loops and if statements.
 
-echo "How many days should we sing about?"
+echo "How many days, should we sing about?"
 read day
 
 current=$day
